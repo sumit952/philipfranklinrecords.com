@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+
+*{margin: 0;padding: 0;}
+
+body{display: flex;justify-content: center;}
+
+div{
+    display: flex;
+    height: 700px;
+    width: 600px;
+}
+img{
+    position: absolute;
+    height: 700px;
+    width: 600px;
+}
+h1,h3{
+    font-family: 'Mate SC', serif;
+    position: absolute;
+    margin: 750px 0 0 0;
+}
+h3{
+    font-family: 'Mate SC', serif;
+    position: absolute;
+    margin: 785px 0 0 0;
+}
+
